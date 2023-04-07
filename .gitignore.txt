@@ -1,1 +1,1 @@
-*.doc
+Desktop/Study_of_M/Dev/backend_test_homework/*.doc
